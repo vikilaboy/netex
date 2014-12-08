@@ -3,7 +3,7 @@ netex
 
 Netex Tires Shop
 
-You need PhalconPHP Framework.
+You need PhalconPHP Framework and at least PHP 5.5.*
 Installation guide here:
 
 http://docs.phalconphp.com/en/latest/reference/install.html#linux-solaris
