@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phalcon/incubator": "dev-master"
+    },
+    "require-dev": {
+        "phalcon/devtools": "dev-master"
+    }
+}
