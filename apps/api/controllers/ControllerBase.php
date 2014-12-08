@@ -41,7 +41,7 @@ class ControllerBase extends Controller
 
     public function beforeExecuteRoute()
     {
-        //$this->authorization();
+        return $this->authorization();
     }
 
     /**
